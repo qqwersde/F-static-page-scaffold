@@ -1,0 +1,1 @@
+# F-static-page-scaffold
