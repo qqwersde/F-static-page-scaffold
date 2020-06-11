@@ -65,3 +65,22 @@ body {
   justify-content:space-around;
   background-color: #e2e6e9;
 }
+
+.idea{
+  height:100px;
+  width:100%;
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-around;
+  flex-direction:column;
+  margin-left:220px;
+  margin-right:auto;
+}
+
+.idea :first-child{
+  font-weight:bold;
+  font-size:30px;
+  display:flex;
+  align-items:flex-start;
+  margin-top:15px;
+}
