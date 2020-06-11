@@ -106,3 +106,25 @@ body {
   justify-content:space-around;
   align-items:center;
 }
+
+.brand{
+  margin-left:110px;
+  margin-right:auto;
+}
+
+.public{
+  margin-right:110px;
+  margin-left:auto;
+}
+
+.title{
+  font-weight:bold;
+  font-size:20px;
+  margin-top:-30px;
+}
+
+.discrption{
+  text-align:center;
+  margin-top:-50px;
+  color:#B0B0B0;
+}
