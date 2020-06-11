@@ -94,3 +94,15 @@ body {
   flex-wrap:wrap;
   margin-top:40px;
 }
+
+.cate{
+  height:70%;
+  width:450px;
+  padding:20px;
+  border-radius:7px;
+  background-color: white;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-around;
+  align-items:center;
+}
